@@ -43,8 +43,9 @@ h2 {
 }
 
 #num-one, #num-two {
+	padding: 0;
 	width: 6.8rem;
-	height: 2rem;
+	height: 1.5rem;
 	background: none;
 	outline: none;
 	border: none;
